@@ -1,2 +1,4 @@
 # Hello-World
-This is my first repository
+Hi everyone,
+
+I am JOseph and I love Programming
